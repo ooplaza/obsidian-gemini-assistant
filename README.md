@@ -23,3 +23,6 @@ you can get your Gemini API key at here [https://ai.google.dev/](https://ai.goog
 ---
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/eatgrass)
+
+## Credits
+This project is based on [Obsidian Gemini Assistant](https://github.com/eatgrass/obsidian-gemini-assistant) by **Eatgrass**.  
